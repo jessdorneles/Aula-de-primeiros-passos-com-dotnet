@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\uMov.me\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\uMov.me\\.nuget\\packages"
+    ]
+  }
+}
